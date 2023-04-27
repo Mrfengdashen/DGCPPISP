@@ -7,6 +7,8 @@
 ## Using DGCPPISP
   You can train DGCPPISP and predict PPI sites through the dataset we provide.
 ### Model train
-  `python train_PPI.py                                                                                                                                                  '
+```
+python train_PPI.py
 ### Model predict
-  `python predict_PPI.py                                                                                                                                                '
+```
+python predict_PPI.py
