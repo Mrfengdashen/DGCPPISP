@@ -9,6 +9,8 @@
 ### Model train
 ```
 python train_PPI.py
+```
 ### Model predict
 ```
 python predict_PPI.py
+```
